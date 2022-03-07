@@ -18,8 +18,6 @@ Other places you can find me:
 
 - 📫 How to reach me? email me at admin@exitone.net
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webmaster-exit-1)  
-
 <img src='https://static.fsf.org/nosvn/associate/crm/1075729.png'>
 
 ![Profile views](https://gpvc.arturio.dev/webmaster-exit-1)  
