@@ -10,13 +10,9 @@ https://repo.exitone.net
 Skills: A little bit of everything.
 Other places you can find me:
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="background-color:white;padding:20px;" alt="github" height="40">[  @webmaster-exit-1](https://github.com/webmaster-exit-1)
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' style="background-color:white;padding:20px;" alt='gitlab' height='40'>[  @mrgofuckyourself](https://gitlab.com/mrgofuckyourself)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' style="background-color:white;padding:20px;" alt='bitbucket' height='40'>[  @mrgfy1337](https://bitbucket.org/mrgfy1337/)
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg' style="background-color:white;padding:20px;" alt='pypi' height='40'>[  @mrgfy](https://pypi.org/user/mrgfy/)
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnu.svg' style="background-color:white;padding:20px;" alt='gnu' height='40'>[  @echohellosuperuser](https://www.fsf.org)          
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="background-color:white;padding:20px;" alt="github" height="40">]( https://github.com/webmaster-exit-1)     <b>GitHub</b>     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' style="background-color:white;padding:20px;" alt='gitlab' height='40'>](https://gitlab.com/mrgofuckyourself)     <b>GitLab</b>     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' style="background-color:white;padding:20px;" alt='bitbucket' height='40'>](https://bitbucket.org/mrgfy1337/)     <b>BitBucket</b>     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg' style="background-color:white;padding:20px;" alt='pypi' height='40'>](https://pypi.org/user/mrgfy/)     <b>PyPi</b>    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnu.svg' style="background-color:white;padding:20px;" alt='gnu' height='40'>](https://www.fsf.org)     <b>Free Software Foundation</b>
 
-- 📫 How to reach me? email me at admin@exitone.net
+* 📫 How to reach me? email me at echohellosuperuser@member.fsf.org
 
 <img src='https://static.fsf.org/nosvn/associate/crm/1075729.png'>
 
