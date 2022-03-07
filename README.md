@@ -10,7 +10,7 @@ https://repo.exitone.net
 Skills: A little bit of everything.
 Other places you can find me:
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='background-color:white;padding:10px;'>![  @webmaster-exit-1](https://github.com/webmaster-exit-1)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="background-color:white;padding:20px;" alt="github" height="40">![  @webmaster-exit-1](https://github.com/webmaster-exit-1)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>![  @mrgofuckyourself](https://gitlab.com/mrgofuckyourself)  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' height='40'>![  @mrgfy1337](https://bitbucket.org/mrgfy1337/)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg' alt='pypi' height='40'>![  @mrgfy](https://pypi.org/user/mrgfy/)
