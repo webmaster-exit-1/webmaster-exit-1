@@ -1,7 +1,5 @@
 <h1>\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Webmaster-exit-1</h1>
 
-<img src="https://i.imgur.com/VL85vC6.png" height="460" width="1100">
-
 <h2>I am a developer and security hobbyist</h2>
 
 I make stuff and mess around with many things.
