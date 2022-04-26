@@ -5,7 +5,8 @@
 I make stuff and mess around with many things.
 
 Checkout my site @
-<p>https://repo.exitone.net<br />
+<p>https://exitone.net<br>
+https://repo.exitone.net<br>
 https://www.cursedcode.com</p>
 
 Skills: A little bit of everything.
