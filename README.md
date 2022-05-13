@@ -4,7 +4,8 @@
 
 I make stuff and mess around with many things.
 
-<img src="https://api.daily.dev/devcards/c7ced6c2b7044a3989b2d936a2f0d59d.png?r=d4d" width="250" alt="Webmaster-Exit-1's Dev Card" align="left">
+<a href="https://app.daily.dev/DailyDevTips">
+<img src="https://api.daily.dev/devcards/c7ced6c2b7044a3989b2d936a2f0d59d.png?r=d4d" width="250" alt="Webmaster-Exit-1's Dev Card" align="left"></a>
 
 Checkout my sites @                                                       
 <p>https://repo.exitone.net<br>
