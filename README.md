@@ -5,7 +5,7 @@
 I make stuff and mess around with many things.
 
 <a href="https://app.daily.dev/DailyDevTips">
-<img src="https://api.daily.dev/devcards/c7ced6c2b7044a3989b2d936a2f0d59d.png?r=d4d" width="250" alt="Webmaster-Exit-1's Dev Card" align="left"></a>
+<img src="https://api.daily.dev/devcards/c7ced6c2b7044a3989b2d936a2f0d59d.png?r=d4d" width="300" alt="Webmaster-Exit-1's Dev Card" align="left"></a>
 
 Checkout my sites @                                                       
 <p>https://repo.exitone.net<br>
@@ -18,8 +18,8 @@ Other places you can find me:
 
 * 📫 How to reach me? email me at echohellosuperuser@member.fsf.org
 
-     <img src="https://static.fsf.org/nosvn/associate/crm/1075729.png">    
-![Profile views](https://gpvc.arturio.dev/webmaster-exit-1) 
+     <img src="https://static.fsf.org/nosvn/associate/crm/1075729.png"> 
+ ![Profile views](https://gpvc.arturio.dev/webmaster-exit-1) 
 <!---
 webmaster-exit-1/webmaster-exit-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
