@@ -4,9 +4,8 @@
 
 I make stuff and mess around with many things.
 
-Checkout my sites:<br>
-<p>https://exitone.net<br>
-https://www.cursedcode.com</p>
+Checkout my site:<br>
+https://www.cursedcode.com
 
 Skills: A little bit of everything.<br>
 Other places you can find me:
