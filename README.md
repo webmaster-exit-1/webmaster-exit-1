@@ -4,7 +4,9 @@
 
 I make stuff and mess around with many things.
 
-Checkout my site/blog/webdev area (The first 3 will never be finished, I use them for practice): <br>
+Checkout my site/blog/webdev area. <br>
+The first 3 will never be finished, I use them for practice. <br>
+And sites 2 through 4 can all be found on site 1 :) <br>
 https://www.cursedcode.com <br>
 https://exitone.net <br>
 https://basedlabs.xyz <br>
