@@ -4,8 +4,12 @@
 
 I make stuff and mess around with many things.
 
-Checkout my site:<br>
-https://www.cursedcode.com
+Checkout my site/blog/webdev area (The first 3 will never be finished, I use them for practice): <br>
+https://www.cursedcode.com <br>
+https://exitone.net <br>
+https://basedlabs.xyz <br>
+https://www.tumblr.com/blog/mrgfy
+
 
 Skills: A little bit of everything.<br>
 Other places you can find me
