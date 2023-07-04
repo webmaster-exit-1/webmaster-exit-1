@@ -2,6 +2,8 @@
 
 <h2>I am a developer and security hobbyist</h2>
 
+Dev. Note: I'm not a pro and any of my repos can changed at any time for any reason. So if there is something I did and you like, take it and run with it. I program for fun. And I hope if whatever I did, may inspire you to make something too.
+
 I make stuff and mess around with many things.
 
 Checkout my site/blog/webdev area. <br>
