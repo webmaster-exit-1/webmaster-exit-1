@@ -7,13 +7,7 @@ Dev. Note: I'm not a pro. Any of my repos can get changed at any time for any re
 I make stuff and mess around with many things.
 
 Checkout my site/blog/webdev area. <br>
-The first 3 will never be finished, I use them for practice. <br>
-And sites 2 through 4 can all be found on site 1 :) <br>
 https://www.cursedcode.com <br>
-https://exitone.net <br>
-https://basedlabs.xyz (site is down) <br>
-https://www.tumblr.com/blog/mrgfy
-
 
 Skills: A little bit of everything.<br>
 Other places you can find me
