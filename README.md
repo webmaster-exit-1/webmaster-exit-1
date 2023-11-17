@@ -2,15 +2,21 @@
 
 <h2>I am a developer and security hobbyist</h2>
 
-Dev. Note: I'm not a pro. Any of my repos can get changed at any time for any reason. So if there is something I did and you like, take it and run with it. I program for fun. And I hope if whatever I did, may inspire you to make something too.
+> <u>Developer Note</u>: 
+				<p>
+								<i>I'm just one guy, making code. If you follow or fork this, don't rely on my updated versions to work. Or even be the same code. So, if I were you and you see something I did and like it, grab it and run with it because I'm not a professional. This is just for fun. And I can and will make breaking changes, stupid ideas, and sometimes, just delete repo's and code I'm done with. Learn 2 Code. Have fun. <br> 
+Happy Hacking</i>
+				</p>
 
-I make stuff and mess around with many things.
+I make stuff and break stuff. <br>
 
-Checkout my site/blog/webdev area. <br>
-https://www.cursedcode.com <br>
+Check it out. I have a website. <br>
+How original? <br>
+- [<b>Cursed•Code</b>](https://www.cursedcode.com) <br>
 
-Skills: A little bit of everything.<br>
-Other places you can find me
+* Skills: ...Some. <br>
+
+* Other places I'm afiliated with in some way; form, or fasion:
               
 [<img src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white-300x199.png" style="padding: 25px 75px;" alt="github" height="40">](https://github.com/webmaster-exit-1) . . Here . . [<img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-200.svg" style="padding: 25px 75px;" alt="gitlab" height="40">](https://gitlab.com/BasedLabs) . . & There . . [<img src="https://poeditor.com/blog/wp-content/uploads/2014/06/bitbucket-logo.png" style="padding: 25px 75px;" alt="bitbucket" height="40">](https://bitbucket.org/mrgfy1337/) . . Even . . [<img src="http://static.fsf.org/nosvn/stickers/fsf.svg" style="padding: 25px 75px;" alt="gnu" height="40">](https://www.fsf.org)
 
