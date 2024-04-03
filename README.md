@@ -10,10 +10,6 @@ Happy Hacking</i>
 
 I make stuff and break stuff. <br>
 
-Check it out. I have a website. <br>
-How original? <br>
-- [<b>Cursed•Code</b>](https://www.cursedcode.com) <br>
-
 * Skills: ...Some. <br>
 
 * Other places I'm afiliated with in some way; form, or fasion:
