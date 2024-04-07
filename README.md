@@ -1,4 +1,4 @@
-<h1>\\\\\\\\\\\\\\\\\\\\\\\Webmaster-exit-1</h1>
+<h1>\\\\\\\\\\\\\Webmaster-exit-1</h1>
 
 <h2>I am a developer and security hobbyist</h2>
 
