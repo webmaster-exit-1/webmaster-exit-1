@@ -2,6 +2,12 @@
 
 <h2>I am a developer and security hobbyist</h2>
 FUCK GITHUB
+
+
+# Github allowed my account to get compromised. Fuck Github.
+
+
+
 > <u>Developer Note</u>: 
 				<p>
 								<i>I'm just one guy, making code. If you follow or fork this, don't rely on my updated versions to work. Or even be the same code. So, if I were you and you see something I did and like it, grab it and run with it because I'm not a professional. This is just for fun. And I can and will make breaking changes, stupid ideas, and sometimes, just delete repo's and code I'm done with. Learn 2 Code. Have fun. <br> 
