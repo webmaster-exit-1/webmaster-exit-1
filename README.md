@@ -1,12 +1,6 @@
 <h1>\\\\\\\\\\\\\Webmaster-exit-1</h1>
 
 <h2>I am a developer and security hobbyist</h2>
-FUCK GITHUB
-
-
-# Github allowed my account to get compromised. Fuck Github.
-
-
 
 > <u>Developer Note</u>: 
 				<p>
