@@ -1,6 +1,6 @@
 <h1>\\\\\\\\\\\\\Webmaster-exit-1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://static.fsf.org/nosvn/associate/crm/1075729.png" align="center"> </h1>
 
-<h3>Just your average self taught programmert</h3>
+<h3>Just your average self taught programmer</h3>
 
 > <u>Developer Note</u>: 
 				<p>
